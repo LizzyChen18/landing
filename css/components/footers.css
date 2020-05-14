@@ -1,0 +1,19 @@
+
+.div {
+  display: block
+}
+
+.footer {
+  text-align: center;
+  padding: 50px;
+  background-color: #ffe277;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #e43f5a;
+}
+
+.footer h3 {
+   color: #ffffff;
+}
