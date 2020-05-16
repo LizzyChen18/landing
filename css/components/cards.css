@@ -6,19 +6,21 @@
 }
 
 .card {
-  width: 280px;
+  width: 340px;
   border-radius: 4px;
   box-shadow: 0 0 5px rgb(230,230,230);
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   border: 1px solid rgb(230, 230,230);
 }
 
 .card img {
-  height: 300px;
-  width: 250px;
+  height: 320px;
+  margin: 15px;
+
 }
 
-.tex-center h2 {
-  font-size: 40spx;
+.card p{
+  font-size: 20px;
 }
+
